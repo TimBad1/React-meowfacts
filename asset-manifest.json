@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-meowfacts/static/css/main.44469c03.css",
+    "main.js": "/React-meowfacts/static/js/main.f4feb40f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-meowfacts/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/React-meowfacts/index.html",
+    "main.44469c03.css.map": "/React-meowfacts/static/css/main.44469c03.css.map",
+    "main.f4feb40f.js.map": "/React-meowfacts/static/js/main.f4feb40f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-meowfacts/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44469c03.css",
+    "static/js/main.f4feb40f.js"
+  ]
+}
